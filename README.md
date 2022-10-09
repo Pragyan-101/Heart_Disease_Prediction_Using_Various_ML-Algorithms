@@ -12,5 +12,5 @@ Proposed Methodology starts with the collection of the data. For this the Clevel
 ![image](https://user-images.githubusercontent.com/91553557/194354207-03912b7b-0613-42c0-a0a6-9665a083a8ee.png)
 
 And then based on the accuracy provided by the various ML- Algorithms, the best algorithm is chosen for the final prediction
-r
+
 
